@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrathamChoreria
-- 👀 I’m interested in data science and web dev
+- 👀 I’m interested in Data Science and Backend Development
 - 🌱 I’m currently learning AWS and NLP
 - 💞️ I’m looking to collaborate on web dev and data science projects
 - 📫 How to reach me-prathamchoreria@gmail.com
